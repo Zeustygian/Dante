@@ -1,0 +1,6 @@
+-I./include
+-W
+-Wall
+-Werror
+-Wextra
+
